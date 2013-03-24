@@ -1,4 +1,4 @@
-####Monitoring Actors In Real Time Via Predictive Analytics Tools
+####Monitoring Actors In Real Time Via Predictive Analytics Tool Sets
 
 - The **objective of this post is to get SOC CND operations thinking outside of the box.** ArcSight is excellent for the presentation and rote rudiment alerting and presentation of relevant CND alerts. However, it is our belief that the **ecosystem of open source predictive analytic tools** such as Hadoop, and Twitter Storm; fill in a gap regarding longer time series predictive analytics(Hadoop), and near real time predictive analytics(Twitter Storm). Idea being **predictive analytics should be viewed as augementing and improving** the relevant strategic data alerts being fed into ArcSight. End state result of improving the Computer Network Defense operational posture of an organizations SOC operations. 
 
